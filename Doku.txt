@@ -1,0 +1,9 @@
+Socket API:
+
+Socket erzeugen
+Adresse zuweisen / Socket initialisieren
+
+Newsock negativ = als Fehler zu interpretieren
+
+Schließen
+WSACleanup wichtig wenn eine Socket Anwendung beendet werden soll. 
